@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "サイサキ",
+  "base_artist": "Reol",
+  "createdAt": "2025-12-02T00:28:04.305854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイサキ",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_サイサキ_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サイサキ - SAISAKI",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_サイサキ_-_SAISAKI_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サイサキ (SAISAKI)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_サイサキ_(SAISAKI)_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸先坂",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_幸先坂_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "幸先坂",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_幸先坂_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "サイサキ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_サイサキ_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "サイサキ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_サイサキ_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "サイサキ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_サイサキ_椎名_林檎.txt"
+    }
+  ]
+}
